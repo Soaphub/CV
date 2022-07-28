@@ -1,6 +1,6 @@
-# Full stack - Secrets project
+# Presonal CV
 
-The web application where users can post their secrets anonymously.   
+All about me.   
 
 ## Table of contents
 
@@ -22,13 +22,13 @@ The web application where users can post their secrets anonymously.
 
 I was able to:
 
-- View the optimal layout for each of the website's pages depending on their device's screen size
-- To maintain the user password using mongo db locally.
-- Initialze OAth for client side web-application
+- Create table in html.
+- Upload image using html.
+- Use links.
 
 ### Links
 
-- Solution URL: https://github.com/Soaphub/Secret
+- Solution URL: https://github.com/Soaphub/CV/
 
 ## My process
 
@@ -36,30 +36,10 @@ I was able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Bootsrap Grid and cards
-- Mongo DB for datatbase
-- Passport, authentication middleware for Node.js
-- Mobile-first workflow
-
-
-### What I learned
-
-```html
- <a class="btn btn-social btn-google" href="/auth/google" role="button">
-            <i class="fab fa-google"></i>
-            Sign Up with Google
-          </a>
-```
-```.js
-  app.get('/auth/google',
-  passport.authenticate('google', {
-    scope: ['profile']
-  }));
-```
 
 ## Author
 
-- Website - Ambadi M P (https://github.com/Soaphub/Secret)
+- Website - Ambadi M P (https://soaphub.github.io/CV/)
 
 ## Acknowledgments
 
